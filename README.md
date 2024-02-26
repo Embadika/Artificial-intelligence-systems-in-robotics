@@ -103,3 +103,4 @@
 Ответ:
 
 Указать параметр scoring. Пример: GridSearchCV(decision_tree_grid, param_grid={'max_depth':max_depth_array}, scoring='accuracy')
+## Сдал
